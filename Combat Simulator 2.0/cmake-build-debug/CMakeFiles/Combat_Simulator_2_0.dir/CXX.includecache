@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/Cplus/Combat Simulator 2.0/Game.cpp
+iostream
+-
+random
+-
+ctime
+-
+string
+-
+Game.h
+C:/Users/User/Desktop/Cplus/Combat Simulator 2.0/Game.h
+
+C:/Users/User/Desktop/Cplus/Combat Simulator 2.0/Game.h
+
+C:/Users/User/Desktop/Cplus/Combat Simulator 2.0/main.cpp
+iostream
+-
+random
+-
+ctime
+-
+string
+-
+Game.h
+C:/Users/User/Desktop/Cplus/Combat Simulator 2.0/Game.h
+
